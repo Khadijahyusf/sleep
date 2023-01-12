@@ -1,0 +1,184 @@
+body
+{
+font: oswald;
+}
+#section1
+{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    padding: 70px;
+    margin: 10px;
+}
+.div1
+{
+    width: 50%;
+    margin: 5px;
+    padding: 2px;
+    border: 5px;
+}
+.creativity
+{
+    color: white;
+    font-size: 80px;
+    margin: 5px;
+    padding: 70px;
+    border: 1px;
+}
+.space
+{
+    color: white;
+    font-size: 40px;
+    margin: 5px;
+    padding: 50px;
+    border: 5px;
+}
+.img1
+{
+    width: 60%;
+    margin: 150px;
+}
+button
+{
+    background-color: black;
+    color: white;
+    border: white solid;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.section2
+{
+    width: 100%;
+    display: flex;
+    padding: 70px;
+    margin: 10px;
+    background-color: grey;
+}
+.update
+{
+    color: maroon;
+    font-size: 20px;
+}
+.billion
+{
+    font-weight: bold;
+    font-size: 80px;
+}
+.project
+{
+    font-size: 20px;
+}
+.vl 
+{
+    border-left: 6px solid rgb(240, 233, 233);
+    height: 500px;
+    margin: 10px;
+    padding: 5px;
+}
+.tech
+{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+    border: 5px;
+    padding: 5px;
+}
+.date
+{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    border: 5px;
+    padding: 5px;
+}
+.section3
+{
+    margin:5px;
+    width:100%;
+    padding:2px;
+}
+hr
+{
+    border: solid black;
+    width: 50%;
+    margin: 20px;
+}
+.hr
+{
+    border: solid black;
+    width: 20%;
+    margin: 20px;  
+}
+.hhr
+{
+    padding:50px;
+}
+.hub
+{
+    font-size: 40px;
+    margin: 10px;
+    border: 5px;
+    padding: 5px;
+}
+.section4
+{
+    width: 80%;
+    border: 5px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    float: right;
+}
+.bulb
+{
+    border: 5px;
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+}
+.fa
+{
+    font-size: 80px;
+}
+.startup
+{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.we
+{
+    text-align: center;
+}
+.button
+{
+    text-align: center;
+}
+img
+{
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+.polaroid 
+{
+     padding: 10px;
+    box-shadow: 0 0.2px 1.2px rgba(0,0,0,0.2);
+    width: 30%;
+    margin: 5px;
+    border: 1px;
+}
+.caption 
+{
+    font-size: 20px;
+    text-align: center;
+    line-height: 2px;
+}
+.img
+{
+    margin:10px;
+    padding: 5px;
+    width: 80%;
+    border: 1px;
+}
